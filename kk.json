@@ -30,6 +30,15 @@
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
+      {
+      "key": "设置",
+      "name": "刺猬🦔配置中心",
+      "type": 3,
+      "api": "csp_Config",
+     "jar": "./jar/cw.jar",
+      "searchable": 0,
+      "changeable": 0
+    },
     {
       "key": "直播转点播",
       "name": "📺︎电视IJK点播",
