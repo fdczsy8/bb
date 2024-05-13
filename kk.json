@@ -163,9 +163,10 @@
     },
         {
       "key": "Gitcafe",
-      "name": "刺猬🦔阿里纸条",
+      "name": "🦔阿里纸条",
       "type": 3,
       "api": "csp_Gitcafe",
+      "jar": "./jar/cw.jar.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -174,9 +175,10 @@
     },
     {
       "key": "小紙條",
-      "name": "刺猬🦔阿里小紙條",
+      "name": "🦔阿里小紙條",
       "type": 3,
       "api": "csp_XiaoZhiTiao",
+      "jar": "./jar/cw.jar.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
