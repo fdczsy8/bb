@@ -161,6 +161,28 @@
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
     },
+        {
+      "key": "Gitcafe",
+      "name": "刺猬🦔阿里纸条",
+      "type": 3,
+      "api": "csp_Gitcafe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/TV/token.json",
+      "timeout": 30
+    },
+    {
+      "key": "小紙條",
+      "name": "刺猬🦔阿里小紙條",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/TV/token.json",
+      "timeout": 30
+    },
     {
       "key": "csp_AliPS",
       "name": "📀喵狸盘搜(搜索)",
