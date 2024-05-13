@@ -174,18 +174,6 @@
       "timeout": 30
     },
     {
-      "key": "小紙條",
-      "name": "🦔阿里小紙條",
-      "type": 3,
-      "api": "csp_XiaoZhiTiao",
-      "jar": "./jar/cw.jar.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/TV/token.json",
-      "timeout": 30
-    },
-    {
       "key": "csp_AliPS",
       "name": "📀喵狸盘搜(搜索)",
       "type": 3,
