@@ -136,7 +136,7 @@
             "name": "Cally影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./jar/xbpq.jar",
+            "jar": "./jar/XBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
