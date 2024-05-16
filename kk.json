@@ -132,17 +132,6 @@
       "ext": "https://www.czys.top/"
     },
     {
-            "key": "Cally影视",
-            "name": "Cally影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jar/XBPQ.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/420影视.json"
-        },
-    {
       "key": "csp_XYQHikerAL_云盘资源",
       "name": "📀云盘资源(搜索)",
       "type": 3,
