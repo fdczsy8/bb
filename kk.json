@@ -251,20 +251,22 @@
       "type": 3,
       "url": "Web"
     },
+       {
+      "name": "MeowTV",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"
+        }
+      }
+    },
     {
       "name": "左岸接口",
       "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url=",
       "header": {
         "User-Agent": "okhttp/4.9.3"
-      }
-    },
-    {
-      "name": "勇哥接口",
-      "type": 1,
-      "url": "https://jxjson.icu/fangdao.php?url=",
-      "header": {
-        "User-Agent": "okhttp/4.1.0"
       }
     },
     {
