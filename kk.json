@@ -143,15 +143,12 @@
       "ext": "./json/miaobo.json"
     },
      {
-      "key": "ngys",
-      "name": "南瓜┃影视",
+      "key": "nangua",
+      "name": "🎃┃南瓜┃影视",
       "type": 3,
-      "api": "csp_NanGua",
-       "jar": "./jar/XBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": 2
+      "playerType": "2",
+      "api": "https://gitdl.cn/https://raw.githubusercontent.com/fdczsy8/bb/main/drpy2.min.js",
+      "ext": "https://gitdl.cn/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/%E5%8D%97%E7%93%9C.js"
     },
         {
       "key": "火狐",
