@@ -254,6 +254,11 @@
       "type": 3,
       "url": "Web"
     },
+    {
+      "name": "美妞",
+      "type": 0,
+      "url": "http://ts.yjhan.com:8090/api/?key=Y4GefMCIQJz23mc06R&url="
+    },
        {
       "name": "虾米",
       "type": 0,
