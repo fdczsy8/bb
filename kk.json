@@ -435,13 +435,8 @@
       "type": 0,
       "url": "https://www.yemu.xyz/?url="
     },
-    {
-      "name": "视频流",
-      "type": 0,
-      "url": "https://jx.m3u8.tv/jiexi/?url=""
-    },
 {
-      "name": "冰豆",
+  "name": "冰豆",
       "type": 0,
       "url": "https://api.qianqi.net/vip/?url="
     },
