@@ -284,7 +284,7 @@
     },
     {
       "name": "芒果接口",
-      "type": 1,
+      "type": 0,
       "url": "http://119.91.123.253:2345/Api/yun.php?url=",
       "header": {
         "User-Agent": "okhttp/4.9.3"
@@ -401,16 +401,6 @@
       "url": "https://im1907.top/?jx="
     },
     {
-      "name": "BL智能解析",
-      "type": 0,
-      "url": "https://svip.bljiex.cc/?v="
-    },
-    {
-      "name": "8090解析",
-      "type": 0,
-      "url": "https://www.8090g.cn/jiexi/?url="
-    },
-    {
       "name": "极速解析",
       "type": 0,
       "url": "https://jx.2s0.cn/player/?url="
@@ -427,7 +417,7 @@
     },
     {
       "name": "盘古解析",
-      "type": 1,
+      "type": 0,
       "url": "https://www.pangujiexi.com/jiexi/?url="
     },
     {
@@ -446,9 +436,9 @@
       "url": "https://www.yemu.xyz/?url="
     },
     {
-      "name": "管理",
+      "name": "视频流",
       "type": 0,
-      "url": "https://www.administratorw.com/video.php?url="
+      "url": "https://jx.m3u8.tv/jiexi/?url=""
     },
 {
       "name": "冰豆",
@@ -470,20 +460,10 @@
       "type": 0,
       "url": "https://jx.we-vip.com/?url="
     },
-{
-      "name": "8090",
-      "type": 0,
-      "url": "https://www.8090g.cn/jiexi/?url="
-    },
     {
       "name": "ckmov",
       "type": 0,
       "url": "https://www.ckmov.com/?url="
-    },
-    {
-      "name": "玩的嗨",
-      "type": 3,
-      "url": "http://vip.wandhi.com/?v="
     },
     {
       "name": "巧技",
