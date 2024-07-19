@@ -34,43 +34,43 @@
       "key": "爱奇异",
       "name": "🌺爱奇艺(官)",
       "type": 3,
-      "api": "https://gitdl.cn/https://raw.githubusercontent.com/fdczsy8/bb/main/drpy2.min.js",
-      "ext": "https://gitdl.cn/https://raw.githubusercontent.com/fdczsy8/bb/main/js/%E7%88%B1%E5%A5%87%E8%89%BA.js"
+      "api": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/drpy2.min.js",
+      "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/js/%E7%88%B1%E5%A5%87%E8%89%BA.js"
     },
     {
       "key": "优酷",
       "name": "🌺优酷(官)",
       "type": 3,
-      "api": "https://gitdl.cn/https://raw.githubusercontent.com/fdczsy8/bb/main/drpy2.min.js",
-      "ext": "https://gitdl.cn/https://raw.githubusercontent.com/fdczsy8/bb/main/js/%E4%BC%98%E9%85%B7.js"
+      "api": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/drpy2.min.js",
+      "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/js/%E4%BC%98%E9%85%B7.js"
     },
     {
       "key": "腾讯",
       "name": "🌺腾讯(官)",
       "type": 3,
-      "api": "https://gitdl.cn/https://raw.githubusercontent.com/fdczsy8/bb/main/drpy2.min.js",
-      "ext": "https://gitdl.cn/https://raw.githubusercontent.com/fdczsy8/bb/main/js/%E8%85%BE%E8%AE%AF.js"
+      "api": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/drpy2.min.js",
+      "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/js/%E8%85%BE%E8%AE%AF.js"
     },
     {
       "key": "芒果",
       "name": "🌺芒果(官)",
       "type": 3,
-      "api": "https://gitdl.cn/https://raw.githubusercontent.com/fdczsy8/bb/main/drpy2.min.js",
-      "ext": "https://gitdl.cn/https://raw.githubusercontent.com/fdczsy8/bb/main/js/%E8%8A%92%E6%9E%9C.js"
+      "api": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/drpy2.min.js",
+      "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/js/%E8%8A%92%E6%9E%9C.js"
     },
     {
       "key": "搜狗",
       "name": "🌺搜狗(官)",
       "type": 3,
-      "api": "https://gitdl.cn/https://raw.githubusercontent.com/fdczsy8/bb/main/drpy2.min.js",
-      "ext": "https://gitdl.cn/https://raw.githubusercontent.com/fdczsy8/bb/main/js/%E6%90%9C%E7%8B%97%E8%A7%86%E9%A2%91.js"
+      "api": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/drpy2.min.js",
+      "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/js/%E6%90%9C%E7%8B%97%E8%A7%86%E9%A2%91.js"
     },
     {
       "key": "drpy_js_360",
       "name": "🌺360视频(官)",
       "type": 3,
-      "api": "https://gitdl.cn/https://raw.githubusercontent.com/fdczsy8/bb/main/drpy2.min.js",
-      "ext": "https://gitdl.cn/https://raw.githubusercontent.com/fdczsy8/bb/main/js/360.js"
+      "api": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/drpy2.min.js",
+      "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/js/360.js"
     },
     {
       "key": "玩偶哥哥",
@@ -106,8 +106,8 @@
       "key": "荐片",
       "name": "🌺荐片秒播",
       "type": 3,
-      "api": "https://gitdl.cn/https://raw.githubusercontent.com/fdczsy8/bb/main/drpy2.min.js",
-      "ext": "https://gitdl.cn/https://raw.githubusercontent.com/fdczsy8/bb/main/js/jianpian.js"
+      "api": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/drpy2.min.js",
+      "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/js/jianpian.js"
     },
    {
       "key": "csp_Czsapp",
@@ -136,8 +136,8 @@
       "name": "🎃┃南瓜┃影视",
       "type": 3,
       "playerType": "2",
-      "api": "https://gitdl.cn/https://raw.githubusercontent.com/fdczsy8/bb/main/drpy2.min.js",
-      "ext": "https://gitdl.cn/https://raw.githubusercontent.com/fdczsy8/bb/main/js/%E5%8D%97%E7%93%9C.js"
+      "api": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/drpy2.min.js",
+      "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/js/%E5%8D%97%E7%93%9C.js"
     },
         {
       "key": "火狐",
@@ -229,12 +229,12 @@
       "key": "drpy_js_有声小说吧",
       "name": "有声小说吧",
       "type": 3,
-      "api": "https://gitdl.cn/https://raw.githubusercontent.com/fdczsy8/bb/main/drpy2.min.js",
+      "api": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/drpy2.min.js",
       "playerType": "2",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitdl.cn/https://raw.githubusercontent.com/fdczsy8/bb/main/js/%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E5%90%A7.js"
+      "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/js/%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E5%90%A7.js"
     }
   ],
   "parses": [
@@ -242,6 +242,11 @@
       "name": "Web聚合",
       "type": 3,
       "url": "Web"
+    },
+      {
+      "name": "美妞",
+      "type": 0,
+      "url": "https://video.isyour.love/player/getplayer?url="
     },
      {
   "name": 爱家影视,
