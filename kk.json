@@ -1,5 +1,5 @@
 ﻿{
-  "spider": "./jar/香雅琴.jar",
+  "spider": "./jar/XBPQ.jar",
   "lives": [
     {
       "name": "live",
@@ -73,26 +73,6 @@
       "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/js/360.js"
     },
     {
-      "key": "玩偶哥哥",
-      "name": "🌺玩偶|哥哥",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/玩偶哥哥.json"
-    },
-    {
-      "key": "玩我哥哥",
-      "name": "🌺玩我|哥哥",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/玩我哥哥.json"
-    },
-    {
       "key": "csp_New6v",
       "name": "🧲新6V",
       "type": 3,
@@ -109,23 +89,11 @@
       "api": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/drpy2.min.js",
       "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/js/jianpian.js"
     },
-   {
-      "key": "csp_Czsapp",
-      "name": "🐞厂长资源",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.czys.pro"
-    },
       {
       "key": "秒播影院",
       "name": "秒播🍓影院",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -172,69 +140,6 @@
         "日本动漫",
         "欧美动漫"
       ]
-    },
-    {
-      "key": "csp_XYQHikerAL_云盘资源",
-      "name": "📀云盘资源(搜索)",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/云盘资源.json"
-    },
-    {
-      "key": "csp_Yisou",
-      "name": "📀易搜(搜索)",
-      "type": 3,
-      "api": "csp_Yisou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
-    },
-    {
-      "key": "csp_Upyunso",
-      "name": "📀UP云搜(搜索)",
-      "type": 3,
-      "api": "csp_Upyunso",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
-    },
-        {
-      "key": "Gitcafe",
-      "name": "🦔阿里纸条",
-      "type": 3,
-      "api": "csp_Gitcafe",
-      "jar": "./jar/cw.jar.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/TV/token.json",
-      "timeout": 30
-    },
-    {
-      "key": "csp_AliPS",
-      "name": "📀喵狸盘搜(搜索)",
-      "type": 3,
-      "api": "csp_AliPS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
-    },
-    {
-      "key": "drpy_js_有声小说吧",
-      "name": "有声小说吧",
-      "type": 3,
-      "api": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/drpy2.min.js",
-      "playerType": "2",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/js/%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E5%90%A7.js"
     }
   ],
   "parses": [
