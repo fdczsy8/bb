@@ -72,16 +72,23 @@
       "api": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/drpy2.min.js",
       "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/js/360.js"
     },
-    {
-      "key": "csp_New6v",
-      "name": "🧲新6V",
+      {"key":"厂长","name":"厂长┃不卡","type":3,"api":"csp_NewCz","jar": "./jar/美妞.jar","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czys.pro/"},
+    {"key":"原创","name":"原创┃不卡","type":3,"api":"csp_YCyz","jar": "./jar/美妞.jar","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"苹果","name":"苹果┃不卡","type":3,"api":"csp_LiteApple","jar": "./jar/美妞.jar","searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"Auete","name":"奥特┃无广","type": 3,"api":"csp_Auete","timeout":15,"jar": "./jar/美妞.jar","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.pro/"},
+      {
+      "key": "xpath_音丝范",
+      "name": "🧲音范┃慎用",
       "type": 3,
-      "api": "csp_New6v",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.xb6v.com"
+      "api": "csp_XPath",
+      "ext": "./json/音范丝.json"
     },
+     {"key": "csp_New6v","name": "🧲新6V","type": 3,"api": "csp_New6v","jar": "./jar/美妞.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://www.xb6v.com"},
+     {"key": "csp_Mp4Mov","name": "🧲Mp4电影","type": 3,"api": "csp_Mp4Mov","jar": "./jar/美妞.jar","searchable": 1,"quickSearch": 1,"filterable": 1},
+      {"key":"csp_SeedHub","name":"🧲SeedHub","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1},
+ {"key":"csp_KubaCL","name":"🧲酷吧电影","type":3,"api":"csp_KubaCL","jar": "./jar/美妞.jar","searchable":1,"quickSearch":1,"filterable":1},
+     {"key":"csp_MeijuMi","name":"🧲美剧迷","type":3,"api":"csp_MeijuMi","jar": "./jar/美妞.jar","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Xunlei8","name":"🧲迅雷吧","type":3,"api":"csp_Xunlei8","jar": "./jar/美妞.jar","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "荐片",
       "name": "🌺荐片秒播",
