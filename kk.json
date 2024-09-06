@@ -1,53 +1,53 @@
-﻿{
-  "spider": "./jar/XBPQ.jar",
-  "lives": [
+﻿{   {
+  “蜘蛛”：“。/jar/XBPQ.jar”，"spider" : "./jar/XBPQ.jar" ,
+  “生活”：[     “生活”：[
+    {       {
+      “名称”：“直播”，“名称” : “直播”,
+      “类型”：0，“类型”：0，
+      /lib/live.txt”，“url” : "./lib/live.txt" ,
+      “epg”：“http://epg. 112114 .eu.org/?ch= {名称} &date= {日期} ”，“epg”：“http://epg. 112114 .eu.org/?ch= {名称} &date= {日期} ”，
+      “答案”：“https://epg. 112114 .xyz/bingimg/logo/ {名称} .png” "logo" : "https://epg.112114.xyz/bingimg/logo/{名称}.png"
+    }        }
+  ]，]，
+  “站点”：[        "sites" : [
+    {        {
+      "key" : "豆瓣" , "key" : "豆瓣" ,
+      "name" : "乡村最美妞祝大家龙年大发" , "name" : "乡村最美妞祝大家龙年大发" ,
+      “类型”：3，“类型”：3 ,
+      “api”：“https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy 8 /bb/main/drpy 2 .min.js”，“api”：“https://ghproxy.liuzhicong” .com/https://raw.githubusercontent.com/fdczsy 8 /bb/main/drpy 2 .min.js”，
+      “可搜索”：0，“可搜索” : 0 ,
+      “快速搜索”：0，“快速搜索” : 0 ,
+      “可过滤”：0，“可过滤” : 0 ,
+      "ext" : "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/%E8%B1%86%E7%93%A3.js"        "ext" : "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/%E8%B1%86%E7%93%A3.js"
+    }，}，
+    {       {
+      “键”：“csp_KungFu 404 ”，“键”：“csp_KungFu 404 ”，
+      "名称" : "┃开放原画┃设置" , "名称" : "┃开放原画┃设置" ,
+      “类型”：3，“类型”：3 ,
+      “api”：“csp_KungFu 404 ”，“api”：“csp_KungFu 404 ”，
+      "jar" : "./jar/alibaba.jar", "jar" : "./jar/alibaba.jar",
+      “可搜索”：0，“可搜索” : 0 ,
+      “可过滤”：0，“可过滤” : 0 ,
+“扩展名”：“ http: //127.0 . 0.1 : 9978 /file/tvbox/token.txt+ 4 k|fhd|auto ” “扩展名”：“ http:// 127.0 . 0.1 : 9978 /file/tvbox/token.txt+ 4 k|fhd|auto ”
+    }，}，
+    {     {
+      "key" : "爱奇异" , "key"    : "爱奇异" ,
+      "name" : "爱奇艺(官)" , "name" : "爱奇艺(官)" ,
+      “类型”：3，3，
+      "api" : "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/drpy2.min.js" ,
+      "ext" : "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/js/%E7%88%B1%E5%A5%87%E8%89%BA.js"
+    }，
     {
-      "name": "live",
-      "type": 0,
-      "url": "./lib/live.txt",
-      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
-    }
-  ],
-  "sites": [
+      "key" : "优酷" ,
+      "name" : "优酷(官)" ,
+      “类型”：3，
+      "api" : "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/drpy2.min.js" ,
+      "ext" : "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/js/%E4%BC%98%E9%85%B7.js"
+    }，
     {
-      "key": "豆瓣",
-      "name": "乡村最美妞祝大家龙年大发",
-      "type": 3,
-      "api": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/%E8%B1%86%E7%93%A3.js"
-    },
-    {
-      "key": "csp_KungFu404",
-      "name": "🌥️┃Open原画┃设置",
-      "type": 3,
-      "api": "csp_KungFu404",
-      "jar": "./jar/alibaba.jar",
-      "searchable": 0,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
-    },
-    {
-      "key": "爱奇异",
-      "name": "🌺爱奇艺(官)",
-      "type": 3,
-      "api": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/drpy2.min.js",
-      "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/js/%E7%88%B1%E5%A5%87%E8%89%BA.js"
-    },
-    {
-      "key": "优酷",
-      "name": "🌺优酷(官)",
-      "type": 3,
-      "api": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/drpy2.min.js",
-      "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/js/%E4%BC%98%E9%85%B7.js"
-    },
-    {
-      "key": "腾讯",
-      "name": "🌺腾讯(官)",
-      "type": 3,
+      "key" : "腾讯" ,
+      "name" : "腾讯(官)" ,
+      “类型”：3，
       "api": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/drpy2.min.js",
       "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/main/js/%E8%85%BE%E8%AE%AF.js"
     },
@@ -171,7 +171,7 @@
       "url": "https://video.isyour.love/player/getplayer?url="
     },
      {
-  "name": 爱家影视,
+  "name": 蓝光,
       "type": 1,
       "url": "http://110.42.99.99:3722/lg.php/?url=",
       "ext": {
@@ -206,6 +206,12 @@
       }
     },
     {
+            "name": "蓝光1",
+            "type": 1,
+            "url": "http://159.75.157.29:75/yylx/?uid=66523&key=5433236&url=",
+	    "status_text": "正常"
+        },
+    {
       "name": "5566",
       "type": 0,
       "url": "https://jx.5566jiexi.com/?url="
@@ -220,6 +226,41 @@
         }
       }
     },
+      		{
+      "name": "PW",
+      "type": 0,
+      "url": "https://jx.m3u8.pw/?url="
+    },
+     {
+      "name": "2S",
+      "type": 0,
+      "url": "https://jx.2s0.cn/player/?url="
+    },
+     {
+      "name": "醉元",
+      "type": 0,
+      "url": "https://jx.zui.cm/?url="
+    },
+    {
+      "name": "七哥",
+      "type": 0,
+      "url": "https://jx.77flv.cc/?url="
+    },  
+     {
+      "name": "盘古2",
+      "type": 0,
+      "url": "https://www.pangujiexi.cc/jiexi.php?url="
+    },  
+     {
+      "name": "纯净",
+      "type": 0,
+      "url": "https://im1907.top/?jx="
+    },
+     {
+      "name": "风影阁",
+      "type": 0,
+      "url": "https://movie.heheda.top/?v="
+    }
     {
       "name": "m3u8",
       "type": 0,
@@ -478,29 +519,29 @@
           "value": "0"
         },
         {
-          "category": 4,
-          "name": "mediacodec-hevc",
-          "value": "0"
-        },
+          “类别”：4，
+          “名称”：“mediacodec-hevc”，
+          “值”：“0”
+        }，
         {
-          "category": 1,
-          "name": "dns_cache_timeout",
-          "value": "600000000"
+          “类别”：1，
+          “名称”：“dns_cache_timeout”，
+          “价值”：“600000000”
         }
       ]
-    },
+    }，
     {
-      "group": "硬解码",
-      "options": [
+      "group" : "硬解码" ,
+      “选项”：[
         {
-          "category": 4,
-          "name": "opensles",
-          "value": "0"
-        },
+          “类别”：4，
+          “名称”：“opensles”，
+          “值”：“0”
+        }，
         {
-          "category": 4,
-          "name": "overlay-format",
-          "value": "842225234"
+          “类别”：4，
+          “名称”：“覆盖格式”，
+          “值”：“842225234”
         },
         {
           "category": 4,
