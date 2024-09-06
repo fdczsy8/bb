@@ -10,8 +10,8 @@
   ],
   "sites": [
     {
-      "key": "¶¹°ê",
-      "name": "Ïç´å×îÃÀæ¤×£´ó¼ÒÁúÄê´ó·¢£¡ÁúÄêĞĞºÃÔË£¡",
+      "key": "è±†ç“£",
+      "name": "ä¹¡æ‘æœ€ç¾å¦ç¥å¤§å®¶é¾™å¹´å¤§å‘ï¼é¾™å¹´è¡Œå¥½è¿ï¼",
       "type": 3,
       "api": "./drpy2.min.js",
       "searchable": 0,
@@ -20,55 +20,56 @@
       "ext": "./js/douban.js"
     },
         {
-      "key": "drpy_js_Ã¢¹û",
-      "name": "¹ÙÔ´ | Ã¢¹û[js]",
+      "key": "drpy_js_èŠ’æœ",
+      "name": "å®˜æº | èŠ’æœ[js]",
       "type": 3,
       "api": "./drpy2.min.js",
-      "ext": "./js/Ã¢¹û.js"
+      "ext": "./js/èŠ’æœ.js"
     },
     {
-      "key": "drpy_js_ÌÚÑ¶",
-      "name": "¹ÙÔ´ | ÌÚÑ¶[js]",
+      "key": "drpy_js_è…¾è®¯",
+      "name": "å®˜æº | è…¾è®¯[js]",
       "type": 3,
       "api": "./drpy2.min.js",
-      "ext": "./js/ÌÚÑ¶.js"
+      "ext": "./js/è…¾è®¯.js"
     },
     {
-      "key": "drpy_js_°®ÆæÒÕ",
-      "name": "¹ÙÔ´ | °®ÆæÒÕ[js]",
+      "key": "drpy_js_çˆ±å¥‡è‰º",
+      "name": "å®˜æº | çˆ±å¥‡è‰º[js]",
       "type": 3,
       "api": "./drpy2.min.js",
-      "ext": "./js/°®ÆæÒÕ.js"
+      "ext": "./js/çˆ±å¥‡è‰º.js"
     },
      {
-      "key": "drpy_js_²Ë¹·",
-      "name": "¹ÙÔ´ | ËÑ¹·[js]",
+      "key": "drpy_js_èœç‹—",
+      "name": "å®˜æº | æœç‹—[js]",
       "type": 3,
       "api": "./drpy2.min.js",
-      "ext": "./js/ËÑ¹·ÊÓÆµ.js"
+      "ext": "./js/æœç‹—è§†é¢‘.js"
     },
      {
-      "key": "drpy_js_360Ó°ÊÓ",
-      "name": "¹ÙÔ´ | 360[js]",
+      "key": "drpy_js_360å½±è§†",
+      "name": "å®˜æº | 360[js]",
       "type": 3,
       "api": "./drpy2.min.js",
       "ext": "./js/360.js"
     }
+	   }
   ],
   "parses": [
      {
-      "name": "Json¾ÛºÏ",
+      "name": "Jsonèšåˆ",
       "type": 3,
       "url": "Demo"
     },
     {
-            "name": "ÓÂ¹ú1",
+            "name": "å‹‡å›½1",
             "type": 1,
             "url": "http://159.75.157.29:75/yylx/?uid=66523&key=5433236&url=",
-	    "status_text": "Õı³£"
+	    "status_text": "æ­£å¸¸"
         },
     {
-      "name": "ÓÂ¹ú",
+      "name": "å‹‡å›½",
       "type": 0,
       "url": "https://vplugin.videoall.icu/?vip="
     },
@@ -83,52 +84,52 @@
       "url": "https://jx.2s0.cn/player/?url="
     },
      {
-      "name": "×íÔª",
+      "name": "é†‰å…ƒ",
       "type": 0,
       "url": "https://jx.zui.cm/?url="
     },
     {
-      "name": "ÃÀæ¤",
+      "name": "ç¾å¦",
       "type": 0,
       "url": "https://video.isyour.love/player/getplayer?url="
     },
      {
-      "name": "Ò¹Ä»",
+      "name": "å¤œå¹•",
       "type": 0,
       "url": "https://www.yemu.xyz/?url="
     },
      {
-      "name": "Æß¸ç",
+      "name": "ä¸ƒå“¥",
       "type": 0,
       "url": "https://jx.77flv.cc/?url="
     },  
      {
-      "name": "ÅÌ¹Å",
+      "name": "ç›˜å¤",
       "type": 0,
       "url": "https://www.pangujiexi.com/jiexi/?url="
     },
      {
-      "name": "ÅÌ¹Å2",
+      "name": "ç›˜å¤2",
       "type": 0,
       "url": "https://www.pangujiexi.cc/jiexi.php?url="
     },  
      {
-      "name": "´¿¾»",
+      "name": "çº¯å‡€",
       "type": 0,
       "url": "https://im1907.top/?jx="
     },
      {
-      "name": "·çÓ°¸ó",
+      "name": "é£å½±é˜",
       "type": 0,
       "url": "https://movie.heheda.top/?v="
     },
      {
-      "name": "÷è÷ë",
+      "name": "éº’éºŸ",
       "type": 0,
       "url": "https://t1.qlplayer.cyou/player/?url="
     },
      {
-      "name": "±ù¶¹",
+      "name": "å†°è±†",
       "type": 0,
       "url": "https://bd.jx.cn/?url="
     },
@@ -148,7 +149,7 @@
       "url": "https://www.ckplayer.vip/jiexi/?url="
     }, 
      {
-      "name": "ÔÂÁÁ",
+      "name": "æœˆäº®",
       "type": 0,
       "url": "http://www.13tv.top/label/v.html?url="
     },
@@ -158,24 +159,24 @@
       "url": "https://www.8090g.cn/?url="
     },
     {
-      "name": "ÏºÃ×",
+      "name": "è™¾ç±³",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
         "flag": [
           "qq",
-          "ÌÚÑ¶",
+          "è…¾è®¯",
           "qiyi",
-          "°®ÆæÒÕ",
-          "ÆæÒÕ",
+          "çˆ±å¥‡è‰º",
+          "å¥‡è‰º",
           "youku",
-          "ÓÅ¿á",
+          "ä¼˜é…·",
           "sohu",
-          "ËÑºü",
+          "æœç‹",
           "letv",
-          "ÀÖÊÓ",
+          "ä¹è§†",
           "mgtv",
-          "Ã¢¹û",
+          "èŠ’æœ",
           "imgo",
           "rx",
           "ltnb",
@@ -186,7 +187,7 @@
       }
     },
     {
-      "name": "ÏºÃ×2",
+      "name": "è™¾ç±³2",
       "type": 0,
       "url": "https://jx.xmflv.cc/?url="
     },
@@ -198,26 +199,26 @@
         "flag": [
           "qiyi",
           "imgo",
-          "°®ÆæÒÕ",
-          "ÆæÒÕ",
+          "çˆ±å¥‡è‰º",
+          "å¥‡è‰º",
           "qq",
-          "ÌÚÑ¶",
+          "è…¾è®¯",
           "youku",
-          "ÓÅ¿á",
+          "ä¼˜é…·",
           "pptv",
           "PPTV",
           "letv",
-          "ÀÖÊÓ",
+          "ä¹è§†",
           "leshi",
           "bilibili",
-          "ßÙÁ¨ßÙÁ¨",
-          "ßÙÁ¨",
+          "å“”å“©å“”å“©",
+          "å“”å“©",
           "mgtv",
-          "Ã¢¹û",
+          "èŠ’æœ",
           "sohu",
           "xigua",
           "fun",
-          "·çĞĞ"
+          "é£è¡Œ"
         ],
         "header": {
           "User-Agent": "Mozilla/5.0"
@@ -240,26 +241,26 @@
         "flag": [
           "qiyi",
           "imgo",
-          "°®ÆæÒÕ",
-          "ÆæÒÕ",
+          "çˆ±å¥‡è‰º",
+          "å¥‡è‰º",
           "qq",
-          "ÌÚÑ¶",
+          "è…¾è®¯",
           "youku",
-          "ÓÅ¿á",
+          "ä¼˜é…·",
           "pptv",
           "PPTV",
           "letv",
-          "ÀÖÊÓ",
+          "ä¹è§†",
           "leshi",
           "bilibili",
-          "ßÙÁ¨ßÙÁ¨",
-          "ßÙÁ¨",
+          "å“”å“©å“”å“©",
+          "å“”å“©",
           "mgtv",
-          "Ã¢¹û",
+          "èŠ’æœ",
           "sohu",
           "xigua",
           "fun",
-          "·çĞĞ"
+          "é£è¡Œ"
         ],
         "header": {
           "User-Agent": "Mozilla/5.0"
@@ -270,7 +271,7 @@
       }
     },
  {
-      "name": "ºìºü",
+      "name": "çº¢ç‹",
       "type": 0,
       "url": "https://player.mrgaocloud.com/player/?url="
     }
@@ -330,7 +331,7 @@
       ]
     },
     {
-      "name": "±©·ç",
+      "name": "æš´é£",
       "hosts": [
         "bfzy",
         "bfbfvip"
@@ -340,7 +341,7 @@
       ]
     },
     {
-      "name": "Á¿×Ó¹ã¸æ",
+      "name": "é‡å­å¹¿å‘Š",
       "hosts": [
         "vip.lz",
         "hd.lz",
@@ -354,7 +355,7 @@
       ]
     },
     {
-      "name": "·Ç·²¹ã¸æ",
+      "name": "éå‡¡å¹¿å‘Š",
       "hosts": [
         "vip.ffzy",
         "hd.ffzy",
@@ -367,7 +368,7 @@
       ]
     },
     {
-      "name": "Ë÷Äá",
+      "name": "ç´¢å°¼",
       "hosts": [
         "suonizy"
       ],
@@ -378,7 +379,7 @@
       ]
     },
     {
-      "name": "¿ì¿´",
+      "name": "å¿«çœ‹",
       "hosts": [
         "kuaikan"
       ],
@@ -388,7 +389,7 @@
       ]
     },
     {
-      "name": "º£Íâ¿´",
+      "name": "æµ·å¤–çœ‹",
       "hosts": [
         "haiwaikan"
       ],
@@ -403,7 +404,7 @@
   ],
   "ijk": [
     {
-      "group": "Èí½âÂë",
+      "group": "è½¯è§£ç ",
       "options": [
         {
           "category": 4,
@@ -483,7 +484,7 @@
       ]
     },
     {
-      "group": "Ó²½âÂë",
+      "group": "ç¡¬è§£ç ",
       "options": [
         {
           "category": 4,
