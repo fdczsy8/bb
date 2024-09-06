@@ -171,7 +171,7 @@
       "url": "https://video.isyour.love/player/getplayer?url="
     },
      {
-  "name": 蓝光,
+  "name":" 蓝光",
       "type": 1,
       "url": "http://110.42.99.99:3722/lg.php/?url=",
       "ext": {
