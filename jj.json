@@ -19,6 +19,13 @@
       "filterable": 0,
       "ext": "./豆瓣.js"
     },
+	  {
+      "key": "drpy_js_优酷",
+      "name": "官源 | 优酷[js]",
+      "type": 3,
+      "api": "./drpy2.min.js",
+      "ext": "./js/优酷.js"
+    },
         {
       "key": "drpy_js_芒果",
       "name": "官源 | 芒果[js]",
