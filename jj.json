@@ -87,8 +87,43 @@
       "type": 3,
       "url": "Demo"
     },
+	   {
+  "name":" 蓝光",
+      "type": 1,
+      "url": "http://110.42.99.99:3722/lg.php/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS",
+          "YuMi-vip"
+        ]
+      }
+    },
     {
-            "name": "勇国1",
+            "name": "蓝光",
             "type": 1,
             "url": "http://159.75.157.29:75/yylx/?uid=66523&key=5433236&url=",
 	    "status_text": "正常"
