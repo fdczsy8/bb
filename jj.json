@@ -18,6 +18,18 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "./豆瓣.js"
+    }, 
+	  {
+      "key": "六趣",
+      "name": "六趣┃解析",
+      "type": 1,
+      "api": "http://110.40.40.249:6321/api.php/provide/vod/"
+    },
+    {
+      "key": "小猫",
+      "name": "小猫┃解析",
+      "type": 1,
+      "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/"
     },
 	  {
       "key": "drpy_js_优酷",
@@ -100,6 +112,36 @@
       "name": "Json聚合",
       "type": 3,
       "url": "Demo"
+    },
+	     {
+      "name": "蓝光六趣",
+      "type": 1,
+      "url": "http://kmp.us.kg/api/?key=A2gODYCEHBd4tVLsbv&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905",
+          "NetFilx"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
     },
     {
       "name": "勇国",
