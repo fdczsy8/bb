@@ -19,7 +19,14 @@
       "filterable": 0,
       "ext": "./豆瓣.js"
     }, 
-	   {
+	      {"key":"开心直播点播","name":"📺︎美妞直播点播","type":3,"api":"./js/sdtv.js","ext":"./lib/kxzb1.txt","jar":"./jar/sdtv.jar"},
+    {"key":"文采","name":"文采┃秒播","type":3,"api":"csp_Jpys","jar": "./jar/美妞.jar","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"萌米","name":"萌米┃多线","type":3,"api":"csp_AppTT","jar": "./jar/美妞.jar","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
+{"key":"欢视","name":"欢视┃多线","type":3,"api":"csp_AppTT","jar": "./jar/美妞.jar","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8IPB+BwH4Qma+opv"},
+	  {"key":"厂长","name":"厂长┃不卡","type":3,"api":"csp_NewCz","jar": "./jar/美妞.jar","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy77.com/"},
+    {"key":"苹果","name":"苹果┃不卡","type":3,"api":"csp_LiteApple","jar": "./jar/美妞.jar","searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"Auete","name":"奥特┃无广","type": 3,"api":"csp_Auete","timeout":15,"jar": "./jar/美妞.jar","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.pro/"},
+	  {
       "key": "8号影院",
       "name": "8号影院┃蓝光┃专线",
       "type": 3,
@@ -142,6 +149,7 @@
         "分类": "电视剧$1#电影$2#动漫$4#综艺$3#短剧$5#纪录片$6"
       }
     },
+	       { "key": "大师兄",  "name": "大师兄影视", "type": 3,"api": "csp_XBPQ", "ext": {"简介":"⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >","分类url":"https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},
     {
       "key": "电影先生",
       "name": "电影先┃高清┃节点",
@@ -162,12 +170,6 @@
         "分类": "国产剧$guochan#香港剧$gangju#台湾剧$taiju#韩国剧$hanju#日本剧$riju#欧美剧$oumei#海外剧$haiwai#动作片$action#喜剧片$xiju#爱情片$romance#科幻片$science#恐怖片$horror#剧情片$feature#战争片$war#动画片$cartoon#纪录片$jilupian#国产动漫$gcdm#日本动漫$rbdm#欧美动漫$omdm#海外动漫$hwdm#内地综艺$ndzy#港台综艺$gtzy#日韩综艺$rhzy#欧美综艺$omzy"
       }
     }, 
-	  {
-      "key": "六趣",
-      "name": "六趣┃解析",
-      "type": 1,
-      "api": "http://110.40.40.249:6321/api.php/provide/vod/"
-    },
     {
       "key": "小猫",
       "name": "小猫┃解析",
@@ -216,9 +218,7 @@
       "api": "./drpy2.min.js",
       "ext": "./js/360.js"
     },
-	{"key": "在线4K","name":"线线┃4K","type":3,"api":"csp_XYQHiker","jar": "./jar/美妞2.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4kav.json"}, 
-	  {"key": "js_毒蛇","name": "毒蛇影视","type": 3,"api": "./lib/drpy2.min.js","jar": "./jar/美妞2.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/毒蛇电影[优].js"},	
-	  {"key":"厂长","name":"厂长┃不卡","type":3,"api":"csp_NewCz",  "jar": "./jar/美妞2.jar","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czys.pro/"},
+	{"key": "在线4K","name":"线线┃4K","type":3,"api":"csp_XYQHiker","jar": "./jar/美妞2.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4kav.json"}, 	
 	       {"key": "csp_Mp4Mov","name": "🧲Mp4电影","type": 3,"api": "csp_Mp4Mov","jar": "./jar/美妞.jar","searchable": 1,"quickSearch": 1,"filterable": 1},
       {"key":"csp_SeedHub","name":"🧲SeedHub","type":3,"api":"csp_SeedHub","jar": "./jar/美妞.jar","searchable":1,"quickSearch":1,"filterable":1},
  {"key":"csp_KubaCL","name":"🧲酷吧电影","type":3,"api":"csp_KubaCL","jar": "./jar/美妞.jar","searchable":1,"quickSearch":1,"filterable":1},
