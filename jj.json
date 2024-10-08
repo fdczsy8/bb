@@ -259,7 +259,37 @@
       "api": "./drpy2.min.js",
       "ext": "./js/360.js"
     },
-	{"key": "在线4K","name":"线线┃4K","type":3,"api":"csp_XYQHiker","jar": "./jar/美妞2.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4kav.json"}, 	
+	{"key": "在线4K","name":"线线┃4K","type":3,"api":"csp_XYQHiker","jar": "./jar/美妞2.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4kav.json"}, 
+	     {
+      "key": "电影港",
+      "name": "🧲电影港┃磁力",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/XYQHiker/电影港.json"
+    },
+	   {
+      "key": "中国蓝光",
+      "name": "🧲蓝光原画┃磁力",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/XYQHiker/中国蓝光.json"
+    },
+    {
+      "key": "4KHDR磁力",
+      "name": "🧲4KHDR┃磁力",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/XYQHiker/4KHDR.json"
+    },
 	       {"key": "csp_Mp4Mov","name": "🧲Mp4电影","type": 3,"api": "csp_Mp4Mov","jar": "./jar/美妞.jar","searchable": 1,"quickSearch": 1,"filterable": 1},
       {"key":"csp_SeedHub","name":"🧲SeedHub","type":3,"api":"csp_SeedHub","jar": "./jar/美妞.jar","searchable":1,"quickSearch":1,"filterable":1},
  {"key":"csp_KubaCL","name":"🧲酷吧电影","type":3,"api":"csp_KubaCL","jar": "./jar/美妞.jar","searchable":1,"quickSearch":1,"filterable":1},
