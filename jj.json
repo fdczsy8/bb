@@ -29,6 +29,15 @@
 	  {"key": "csp_XYQHiker_农民影视","name":"农民影视","type":3,"api":"csp_XYQHiker","jar": "./jar/美妞.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/农民影视.json"},
 {"key": "csp_XYQHiker_七新影视","name":"七新影视","type":3,"api":"csp_XYQHiker","jar": "./jar/美妞.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/七新影视.json"},
 {"key": "csp_XYQHiker_可可影视","name":"可可影视","type":3,"api":"csp_XYQHiker","jar": "./jar/美妞.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/可可影视.json"},
+	   {
+      "key": "素白白影视",
+      "name": "🧿素白┃蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "./json/subaibai.json"
+    },
 	  {
       "key": "8号影院",
       "name": "8号影院┃蓝光┃专线",
@@ -120,6 +129,35 @@
         "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
         "分类url": "https://www.freeokk.pro/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
         "分类": "电影$1#剧集$2#动漫$3#综艺$4#短剧$5"
+      }
+    },
+	  {
+      "key": "csp_TVB",
+      "name": "3⃣️港视┃高清┃云播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "简介": "请勿相信影片中的广告，以免上当受骗。+<span class=\"sketch content&&</div>",
+        "线路数组": "<div class=\"myui-panel__head bottom-line active clearfix\"&&</div>[不包含:极速专线]",
+        "线路标题": "<h3 class=\"title\">&&</h3>",
+        "分类url": "http://www.tvyun01.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#动作片$6#喜剧片$7#爱情片$8#科幻片$9#剧情片$10#恐怖片$11#战争片$12#动漫$4#综艺$3"
+      }
+    },
+	     {
+      "key": "神马影视",
+      "name": "#⃣️神马┃高清┃多线",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.18ys.cc/vodshow/1-------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$30#纪录片$40"
       }
     },
     {
