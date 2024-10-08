@@ -341,12 +341,17 @@
       "type": 3,
       "url": "Demo"
     },
-    {
-      "name": "勇国",
+       {
+      "name": "hqjk",
       "type": 0,
-      "url": "https://vplugin.videoall.icu/?vip="
+      "url": "https://www.huaqi.live/?url="
     },
-    		{
+	     {
+      "name": "独家",
+      "type": 0,
+      "url": "https://www.dujiayy.top/djzy.php?url="
+    },
+	  {
       "name": "PW",
       "type": 0,
       "url": "https://jx.m3u8.pw/?url="
