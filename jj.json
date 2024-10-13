@@ -454,7 +454,7 @@
 	{"key": "在线4K","name":"线线┃4K","type":3,"api":"csp_XYQHiker","jar": "./jar/美妞2.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4kav.json"}, 
 	      {
       "key": "布谷tv",
-      "name": "布谷┃磁力",
+      "name": "🧲布谷┃磁力",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -586,21 +586,6 @@
       "type": 3,
       "url": "Demo"
     },
-  {
-      "name": "王",
-      "type": 1,
-      "url": "http://122.228.84.103:7777/api/?key=4Dk5tdayvY6NZufEMG&url="
-    },
-    {
-      "name": "二",
-      "type": 1,
-      "url": "http://110.42.7.182:880/api/?key=7e84f07dc78fbb3406d64a1ab7d966b3&url="
-    },
-    {
-      "name": "小",
-      "type": 1,
-      "url": "http://43.136.176.188:91/api/?key=4ef232e96172b0bda78d393c695fe7c4&url="
-    },
     {
       "name": "帅",
       "type": 1,
@@ -611,12 +596,7 @@
       "type": 1,
       "url": "http://202.140.143.148:8897/mck.php?url="
     }, 
-       {
-      "name": "独家",
-      "type": 0,
-      "url": "https://www.dujiayy.top/djzy.php?url="
-    },
-	  {
+     {
       "name": "PW",
       "type": 0,
       "url": "https://jx.m3u8.pw/?url="
