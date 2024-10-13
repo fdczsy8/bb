@@ -20,12 +20,16 @@
       "ext": "./豆瓣.js"
     }, 
 	      {"key":"开心直播点播","name":"📺︎美妞直播点播","type":3,"api":"./js/sdtv.js","ext":"./lib/kxzb1.txt","jar":"./jar/sdtv.jar"},
-	  {
-      "key": "瓜子app",
-      "name": "♨️瓜子",
+	 {
+      "key": "csp_瓜子",
+      "name": "瓜子|影视",
+      "api": "csp_Gz360",
+      "jar": "./jar/gz.jar",
       "type": 3,
-      "api": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/refs/heads/main/drpy2.min.js",
-      "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/fdczsy8/bb/refs/heads/main/js/guazi.js"
+      "searchable": 1,
+      "playerType": 2,
+      "timeout": 30,
+      "changeable": 0
     },
     {"key":"文采","name":"文采┃秒播","type":3,"api":"csp_Jpys","jar": "./jar/美妞.jar","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
     {"key":"萌米","name":"萌米┃多线","type":3,"api":"csp_AppTT","jar": "./jar/美妞.jar","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
