@@ -31,42 +31,6 @@
       "changeable": 0,
       "jar": "./jar/x.jar"
     },
-	     {
-      "key": "Wexemby",
-      "name": "🀄️emby┃4K🀄️",
-      "type": 3,
-      "api": "csp_Wexemby",
-      "jar": "./jar/wex.txt",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexkoukou",
-      "name": "🌺扣扣┃4K🌺",
-      "type": 3,
-      "jar": "./jar/wex.txt",
-      "api": "csp_Wexkoukou",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexkoukou2",
-      "name": "🌺扣扣┃4K2🌺",
-      "type": 3,
-      "api": "csp_Wexkoukou2",
-      "jar": "./jar/wex.txt",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexjiazitv",
-      "name": "🌺甲子┃4K🌺",
-      "type": 3,
-      "api": "csp_Wexjiazitv",
-      "jar": "./jar/wex.txt",
-      "searchable": 1,
-      "changeable": 1
-    },
     {"key":"文采","name":"文采┃秒播","type":3,"api":"csp_Jpys","jar": "./jar/美妞.jar","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
     {"key":"萌米","name":"萌米┃多线","type":3,"api":"csp_AppTT","jar": "./jar/美妞.jar","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
 {"key":"欢视","name":"欢视┃多线","type":3,"api":"csp_AppTT","jar": "./jar/美妞.jar","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8IPB+BwH4Qma+opv"},
