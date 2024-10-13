@@ -46,8 +46,8 @@
       "type": 3,
       "api": "csp_Wexkoukou",
       "searchable": 1,
-      "jar": "./jar/wex.txt",
       "changeable": 1
+      "jar": "./jar/wex.txt",
     },
     {
       "key": "Wexkoukou2",
