@@ -44,10 +44,10 @@
       "key": "Wexkoukou",
       "name": "🌺扣扣┃4K🌺",
       "type": 3,
+      "jar": "./jar/wex.txt",
       "api": "csp_Wexkoukou",
       "searchable": 1,
       "changeable": 1
-      "jar": "./jar/wex.txt",
     },
     {
       "key": "Wexkoukou2",
