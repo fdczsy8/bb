@@ -25,7 +25,7 @@
       "name": "♨️瓜子®APP",
       "type": 3,
       "api": "./drpy2.min.js",
-      "ext": "./js/guazi.js"
+      "ext": "./js/瓜子.js"
     },
     {"key":"文采","name":"文采┃秒播","type":3,"api":"csp_Jpys","jar": "./jar/美妞.jar","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
     {"key":"萌米","name":"萌米┃多线","type":3,"api":"csp_AppTT","jar": "./jar/美妞.jar","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
