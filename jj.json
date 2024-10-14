@@ -105,6 +105,28 @@
       "type": 4,
       "api": "https://catbox.n13.club/t4/heihu.php"
     },
+	      {
+      "key": "奈飞影视",
+      "name": "鸭奈飞|影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "jar": "./jar/wc.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/lib/ynf.json"
+    },
+    {
+      "key": "奈飞中文",
+      "name": "奈飞|中文",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "jar": "./jar/wc.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/lib/nfzw.json"
+    },
 	     {
       "key": "机器人",
       "name": "机器┃影视",
