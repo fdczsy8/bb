@@ -122,6 +122,112 @@
       "filterable": 1,
       "ext": "http://z.kzjtv.com/"
     },
+	     {
+      "key": "热播影视",
+      "name": "热播┃影视",
+      "type": 3,
+      "api": "csp_AppRB",
+      "jar": "./jar/o2.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	     {
+      "key": "骚火影视",
+      "name": "骚火┃影视",
+      "type": 3,
+      "api": "csp_Wexsaohuo",
+      "jar": "./jar/o2.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "快看影视",
+      "name": "快看┃影视",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "jar": "./jar/o2.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "桃子┃影视",
+      "name": "桃子┃影视",
+      "type": 3,
+      "api": "csp_Taozi",
+      "jar": "./jar/o2.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "笙歌┃影视",
+      "name": "笙歌┃影视",
+      "type": 3,
+      "api": "csp_AppYY",
+      "jar": "./jar/o2.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "全网┃影视",
+      "name": "全网┃影视",
+      "type": 3,
+      "api": "csp_Quanwk",
+      "jar": "./jar/o2.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "天天影视",
+      "name": "天天┃影视",
+      "type": 3,
+      "api": "csp_AppTT",
+      "jar": "./jar/o2.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	      {
+      "key": "腐剧视频",
+      "name": "腐剧┃影视",
+      "type": 3,
+      "api": "csp_WexFujutv",
+      "jar": "./jar/o2.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "两个磁力",
+      "name": "两个┃影视",
+      "type": 3,
+      "api": "csp_Wexbttwo",
+     "jar": "./jar/o2.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "在线之家",
+      "name": "在线┃之家",
+      "type": 3,
+      "api": "csp_Wexzxzj",
+      "jar": "./jar/o2.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "南瓜影视",
+      "name": "南瓜┃影视",
+      "type": 3,
+      "api": "csp_WexNgys",
+     "jar": "./jar/o2.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
 	    {
       "key": "云播💋蓝光",
       "name": "云播|蓝光",
