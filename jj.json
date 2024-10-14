@@ -39,7 +39,16 @@
     {"key":"Auete","name":"奥特┃无广","type": 3,"api":"csp_Auete","timeout":15,"jar": "./jar/美妞.jar","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.pro/"},
 	  {"key": "csp_XYQHiker_农民影视","name":"农民影视","type":3,"api":"csp_XYQHiker","jar": "./jar/美妞.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/农民影视.json"},
 {"key": "csp_XYQHiker_七新影视","name":"七新影视","type":3,"api":"csp_XYQHiker","jar": "./jar/美妞.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/七新影视.json"},
-{"key": "csp_XYQHiker_可可影视","name":"可可影视","type":3,"api":"csp_XYQHiker","jar": "./jar/美妞.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/可可影视.json"},
+    {
+      "key": "csp_xBPQ可可",
+      "name": "可可|影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/guot55/yg/raw/pg%2Flib%2F%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.json?ref=main"
+    },
 	      {
       "key": "文采影视",
       "name": "文采┃秒播",
@@ -106,6 +115,37 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://v.aikanbot.com"
+    },
+	      {
+      "key": "xcys",
+      "name": "星辰｜影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "http://m.disc800.com/species/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#连续剧$2#动漫$3#综艺$4#纪录片$5"
+      }
+    },
+	      {
+      "key": "三米ys",
+      "name": "三米｜秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "http://www.9-here.com/index.php/s/S-id-{cateId}-{catePg}/area/{area}/by/{by}/class/{class}/lang/{lang}/year/{year}.html[http://www.9-here.com/index.php/t/S-{cateId}-{catePg}.html]",
+        "分类": "电影$movie#连续剧$drama#动漫$comic#综艺$tvshow"
+      }
+    },
+	   {
+      "key": "酷影",
+      "name": "酷影┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./jar/o2.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.tvkuys.xyz/api.php/app/"
     },
     {
       "key": "大米星球",
@@ -204,6 +244,24 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+	      {
+      "key": "金牌影视",
+      "name": "金牌|影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "简介": "美妞为您剧情介绍:+简介:</div>&&</div></div>",
+        "数组": "content-card\">&&</div></div></a></div></div>",
+        "标题": "<div class=\"title\">&&</div>",
+        "副标题": "tag\">&&</div>",
+        "线路标题": "在线播放",
+        "播放数组": "main-list-sections&&</div></div>",
+        "分类url": "https://www.chrqj.com/vod/show/id/{cateId}/type/{class}/area/{area}/year/{year}/page/{catePg};;d0",
+        "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
+      }
     },
 	    {
       "key": "云播💋蓝光",
