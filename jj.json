@@ -90,8 +90,38 @@
         "分类": "电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
       }
     },
-	  {"key":"忍者影视","name":"💡忍者｜影视","type":3,"api":"csp_AppRZ",   "jar": "./jar/欧歌.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rzys.xyz/"},
-{"key":"追剧影视","name":"💡追剧｜影视","type":3,"api":"csp_AppZJ",  "jar": "./jar/欧歌.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://z.kzjtv.com/"},
+	     {
+      "key": "机器人",
+      "name": "机器┃影视",
+      "type": 3,
+      "api": "csp_Ikanbot",
+       "jar": "./jar/o2.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://v.aikanbot.com"
+    },
+    {
+      "key": "大米星球",
+      "name": "大米┃影视",
+      "type": 3,
+      "api": "csp_AppDaMi",
+      "jar": "./jar/o2.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+	   {
+      "key": "追剧影视",
+      "name": "追剧┃影视",
+      "type": 3,
+      "api": "csp_AppZJ",
+      "jar": "./jar/o2.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://z.kzjtv.com/"
+    },
 	    {
       "key": "云播💋蓝光",
       "name": "云播|蓝光",
