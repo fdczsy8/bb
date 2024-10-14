@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/XBPQ.jar",
+  "spider": "./jar/o.jar",
  "lives": [
     {
       "name": "IPV",
@@ -114,7 +114,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/lib/ynf.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fdczsy8/bb/refs/heads/main/json/ynf.json"
     },
     {
       "key": "奈飞中文",
@@ -125,7 +125,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/lib/nfzw.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fdczsy8/bb/refs/heads/main/json/nfzw.json"
     },
 	     {
       "key": "机器人",
