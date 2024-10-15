@@ -801,21 +801,6 @@
       }
     },
 	      {
-      "key": "热播之家",
-      "name": "🔥热播┃高清┃多线",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "线路数组": "data-toggle=\"tab&&</a>",
-        "线路标题": ">&&<",
-        "分类": "国产剧$13#港台剧$14#日韩剧$15#海外剧$16#动作$6#喜剧$7#爱情$8#科幻$9#恐怖$10#剧情$11#战争$12#纪录片$3#国产动漫$24#日韩动漫$25#港台动漫$26#欧美动漫$27#大陆综艺$17#港台综艺$18#日韩综艺$20#欧美综艺$21#短剧$28",
-        "分类url": "https://rebozj.pro/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
-      }
-    },
-	      {
       "key": "黑木耳资源",
       "name": "💚木耳┃高清┃无广",
       "type": 1,
@@ -1053,23 +1038,6 @@
         "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"display: none;\"&&</span>",
         "分类url": "https://www.kele365.com/index.php/vod/type/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
         "分类": "电影$20#电视剧$21#动漫$22#综艺$23#体育$24#短剧$25"
-      }
-    },
-	      {
-      "key": "奇优影院",
-      "name": "🧿奇优┃蓝光",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "./jar/XBPQ1.jar",
-      "playerType": "2",
-      "api": "csp_XBPQ",
-      "ext": {
-        "简介": "请勿相信影片中的广告，以免上当受骗。+简介：&&</div>",
-        "搜索url": "http://www.dyxz2.com/search.php;post;searchword={wd}",
-        "分类": "电影$1#电视剧$2#动漫$3#综艺$4#伦理$6",
-        "分类url": "http://www.dyxz2.com/list/{cateId}_{catePg}.html?order=time"
       }
     },
     {
@@ -1772,16 +1740,6 @@
       "filterable": 1
     },
     {
-      "key": "萌米",
-      "name": "💮萌米┃直连",
-      "type": 3,
-      "api": "csp_AppTT",
-      "jar": "./jar/fanou.txt",
-      "timeout": 15,
-      "playerType": 1,
-      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-    },
-    {
       "key": "视频库",
       "name": "💮视频┃直连",
       "type": 3,
@@ -1839,7 +1797,7 @@
       "key": "魔力直连",
       "name": "💮魔力┃直连",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
