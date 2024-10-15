@@ -265,13 +265,11 @@
       "searchable": 1,
       "changeable": 1
     },
-     {
-      "key": "南瓜影视",
-      "name": "🎃南瓜┃高清┃纯净",
+      {
+      "key": "nangua",
+      "name": "🎃┃南瓜┃影视",
       "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
+      "playerType": "2",
       "api": "./drpy2.min.js",
       "ext": "./js/101.js"
     },
