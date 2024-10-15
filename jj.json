@@ -1641,17 +1641,6 @@
       "ext": "http://v.rbotv.cn"
     },
     {
-      "key": "追剧影视",
-      "name": "💮追剧┃直连",
-      "type": 3,
-      "api": "csp_AppZJ",
-      "jar": "./jar/zhuiju.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://z.kzjtv.com/"
-    },
-    {
       "key": "明日影视",
       "name": "💮明日┃直连",
       "type": 3,
@@ -1660,26 +1649,7 @@
       "searchable": 1,
       "changeable": 1
     },
-    //{
-      "key": "快看影视",
-      "name": "💮快看┃直连",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "jar": "./jar/ou.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-   // {
-      "key": "腐剧视频",
-      "name": "💮腐剧┃直连",
-      "type": 3,
-      "api": "csp_WexFujutv",
-      "jar": "./jar/ou.jar",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
+	  {
       "key": "圣城影视",
       "name": "💮圣城┃直连",
       "type": 3,
