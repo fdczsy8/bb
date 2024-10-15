@@ -92,7 +92,7 @@
       "key": "利播蓝光",
       "name": "2⃣️利播┃外剧┃纯净",
       "type": 3,
-      "api": "./js/drpy.min.js",
+      "api": "./drpy2.min.js",
       "searchable": 0,
       "quickSearch": 1,
       "changeable": 1,
@@ -135,18 +135,7 @@
       "filterable": 1,
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fdczsy8/bb/refs/heads/main/json/ynf.json"
     },
-    {
-      "key": "奈飞中文",
-      "name": "奈飞|中文",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "jar": "./jar/wc.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fdczsy8/bb/refs/heads/main/json/nfzw.json"
-    },
-	     {
+      {
       "key": "机器人",
       "name": "机器┃影视",
       "type": 3,
