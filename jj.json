@@ -1093,7 +1093,6 @@
       "name": "🧿凯奇┃蓝光",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/dokilwss.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1661,7 +1660,7 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
+    //{
       "key": "快看影视",
       "name": "💮快看┃直连",
       "type": 3,
@@ -1671,7 +1670,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
+   // {
       "key": "腐剧视频",
       "name": "💮腐剧┃直连",
       "type": 3,
