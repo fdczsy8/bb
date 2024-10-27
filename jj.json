@@ -11,14 +11,14 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "乡村最美妞祝大家龙年大发！龙年行好运！",
+      "name": "🍎乡村最美妞祝大家龙年大发",
       "type": 3,
-      "api": "./drpy2.min.js",
+      "api": "csp_DouDou",
+      "jar": "./jar/fan.txt",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./豆瓣.js"
-    }, 
+      "filterable": 0
+    },
 	      {"key":"开心直播点播","name":"📺︎美妞直播点播","type":3,"api":"./js/sdtv.js","ext":"./lib/kxzb1.txt","jar":"./jar/sdtv.jar"},
 	 {
       "key": "csp_瓜子",
